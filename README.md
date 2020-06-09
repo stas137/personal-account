@@ -1,4 +1,11 @@
-# personal-account
+
+# 
+# Проект personal-account  создан с помощью Vue CLI
+# 
+# Для запуска на локальном компьютере необходимо переподключить вместо actions.js -> actions-local.js
+# и вместо v-personal-account.vue -> v-personal-account-local.vue
+# также необходимо будет запустить json-server --watch db.json 
+# 
 
 ## Project setup
 ```
