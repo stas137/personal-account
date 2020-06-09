@@ -7,6 +7,8 @@ v-personal-account.vue -> v-personal-account-local.vue
 также необходимо будет запустить json-server --watch db.json 
 ```
 
+### Проект можно протестировать по адресу develop2.mcdir.ru
+
 ## Project setup
 
 npm install
